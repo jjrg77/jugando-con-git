@@ -1,4 +1,4 @@
-hola mundo cruel
+hola mundo bonito
 
 linea 1
 
@@ -7,5 +7,5 @@ linea 3
 linea8
 
 
-adios mundo
+adios brother
 
